@@ -1,6 +1,0 @@
-PORT "L"
-Lisbon
-Louisville
-Liverpool
-Le Havre
-Lagos

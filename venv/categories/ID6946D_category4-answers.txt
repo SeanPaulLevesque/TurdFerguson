@@ -1,6 +1,0 @@
-LANGUAGES
-Latin
-Lithuanian
-French
-Huron (or Erie)
-Dutch

@@ -1,6 +1,0 @@
-MAMMALS
-rodents
-marsupial
-a sable
-bats
-a wolverine

@@ -1,6 +1,0 @@
-"S" WORDS
-a scepter
-sharkskin
-&lt;i&gt;Signore&lt;/i&gt;
-sinew
-a spinet
