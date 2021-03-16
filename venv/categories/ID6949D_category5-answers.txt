@@ -1,0 +1,6 @@
+PHYSICS
+cobalt
+wavelength
+work
+infrared
+coulomb

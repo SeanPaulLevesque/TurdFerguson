@@ -1,0 +1,52 @@
+// Relative path to folder containing questions/answers
+dir=questions/
+
+// table size
+tsize=1
+
+
+// GAMEPLAY ////////
+
+// value of each row
+val=100
+
+// value of final rows
+valfinal=1000
+
+// # of random daily double questions.
+doublej=2
+
+// Some consider daily doubles to be "2x" the point value
+// Setting to 2x makes "100" become "2x100"
+djval=
+
+// true/false if final jeopardy at end
+finaljeo=true
+
+// true/false whether to have music loop on question selection
+musicloop=false
+
+
+// FONTS /////////
+
+// General fontsize (points, questions, etc)
+regsize=42
+
+// Fontsize of category names on table.
+catsize=12
+
+// 0.0-1.0 vertical centering for questions/ans
+anscentering=.5
+
+// Scale of text enlarge effect when mouse passes over buttons.
+hoverscale=1.25
+
+
+// ETC //////////////////
+
+// decorative symbols
+sprites=*,!,$,♫,☺,☻,♥,§,☼,$$$
+
+// relative path to intro FLV video (play a logo); Leave blank to disable.
+// Example: graphics/video.flv plays 'video.flv' in the graphics folder
+intro=

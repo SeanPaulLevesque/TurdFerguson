@@ -1,0 +1,6 @@
+MAMMALS
+spots
+bats
+elephants
+antelope
+hippopotamuses
