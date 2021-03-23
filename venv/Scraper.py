@@ -257,6 +257,11 @@ for id in range(6940,6969,1):
     curr_episode.f.answer = game_html[start_index:end_index]
     game_html = game_html[end_index:]
 
+    start_index = game_html.find("<td class=\"category_name\">") + len("<td class=\"category_name\">")
+    end_index = game_html.find("</td>", start_index)
+    curr_episode.f.category = game_html[start_index:end_index]
+    game_html = game_html[end_index:]
+
     start_index = game_html.find("<td id=\"clue_FJ\" class=\"clue_text\">") + len("<td id=\"clue_FJ\" class=\"clue_text\">")
     end_index = game_html.find("</td>", start_index)
     curr_episode.f.question = game_html[start_index:end_index]

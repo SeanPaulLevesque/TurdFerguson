@@ -33,6 +33,7 @@ class d_jeopardy(object):
 
 class f_jeopardy(object):
     def __init__(self):
+        self.category = ""
         self.question = ""
         self.answer = ""
 
