@@ -1,0 +1,6 @@
+BLANK "UM"
+aquarium
+a Magnum
+a geranium
+a pendulum
+gypsum

@@ -1,0 +1,134 @@
+NORSEMEN
+horns
+Leif Erikson
+bones
+Pennsylvania
+ 'The longest known &lt;a href=&quot;http://www.j-archive.com/media/2020-09-18_DJ_05.jpg&quot; target=&quot;_blank&quot;&gt;inscriptions&lt;/a&gt; in this Viking alphabet is on the Rökstenen, seen &lt;a href=&quot;http://www.j-archive.com/media/2020-09-18_DJ_05a.jpg&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;')" onclick="togglestick('clue_DJ_6_5_stuck')">
+        <table class="clue_header">
+          <tr>
+            <td id="clue_DJ_6_5_stuck" class="clue_unstuck">&#160;&#160;&#160;</td>
+            <td class="clue_value">$2000</td>
+            <td class="clue_order_number"><a href="suggestcorrection.php?clue_id=397598" title="Suggest a correction for this clue" rel="nofollow">5</a></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td id="clue_DJ_6_5" class="clue_text">The longest known <a href="http://www.j-archive.com/media/2020-09-18_DJ_05.jpg" target="_blank">inscriptions</a> in this Viking alphabet is on the Rökstenen, seen <a href="http://www.j-archive.com/media/2020-09-18_DJ_05a.jpg" target="_blank">here</a></td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+              <h3>Scores at the end of the Double Jeopardy! Round:</h3>
+              <table>
+                <tr>
+                  <td class="score_player_nickname">Joe</td>
+                  <td class="score_player_nickname">Sarah</td>
+                  <td class="score_player_nickname">Herman</td>
+                </tr>
+                <tr>
+                  <td class="score_positive">$9,900</td>
+                  <td class="score_positive">$13,800</td>
+                  <td class="score_positive">$9,200</td>
+                </tr>
+                <tr>
+                  <td class="score_remarks"></td>
+                  <td class="score_remarks"></td>
+                  <td class="score_remarks"></td>
+                </tr>
+              </table>
+              <p><a href="wageringcalculator.php?a=13800&amp;b=9900&amp;c=9200&amp;player_a=Sarah&amp;player_b=Joe&amp;player_c=Herman">[wagering suggestions for these scores]</a></p>
+            </div>
+            <div id="final_jeopardy_round">
+              <h2>Final Jeopardy! Round</h2>
+
+<table class="final_round">
+  <tr>
+    <td class="category">
+      
+<div onmouseover="toggle('clue_FJ', 'clue_FJ_stuck', '(Alex: &quot;In Xanadu did Kubla Khan&lt;br /&gt;A stately pleasure-dome decree&quot;.)&lt;br /&gt;(Sarah: Oh, my gosh.)&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;wrong&quot;&gt;Herman&lt;/td&gt;&lt;td rowspan=&quot;2&quot; valign=&quot;top&quot;&gt;Who is Lord Byron?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;$4,601&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;wrong&quot;&gt;Joe&lt;/td&gt;&lt;td rowspan=&quot;2&quot; valign=&quot;top&quot;&gt;Who is Byron?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;$5,000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;right&quot;&gt;Sarah&lt;/td&gt;&lt;td rowspan=&quot;2&quot; valign=&quot;top&quot;&gt;Who is Coleridge&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;$6,001&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;em class=\&quot;correct_response\&quot;&gt;Coleridge&lt;/em&gt;')" onmouseout="toggle('clue_FJ', 'clue_FJ_stuck', 'An 1816 poem by him says, &quot;That with music loud and long, I would build that dome in air, That sunny dome!&quot;')" onclick="togglestick('clue_FJ_stuck')">
+  <table>
+    <tr><td class="category_name">ENGLISH POETS</td></tr>
+    <tr><td class="category_comments"></td></tr>
+  </table>
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="clue">
+<table>
+  <tr>
+    <td id="clue_FJ" class="clue_text">An 1816 poem by him says, "That with music loud and long, I would build that dome in air, That sunny dome!"</td>
+  </tr>
+</table>
+<var id="clue_FJ_stuck"></var>
+    </td>
+   </tr>
+</table>
+              <h3>Final scores:</h3>
+              <table>
+                <tr>
+                  <td class="score_player_nickname">Joe</td>
+                  <td class="score_player_nickname">Sarah</td>
+                  <td class="score_player_nickname">Herman</td>
+                </tr>
+                <tr>
+                  <td class="score_positive">$4,900</td>
+                  <td class="score_positive">$19,801</td>
+                  <td class="score_positive">$4,599</td>
+                </tr>
+                <tr>
+                  <td class="score_remarks">2nd place: $2,000</td>
+                  <td class="score_remarks">New champion: $19,801</td>
+                  <td class="score_remarks">3rd place: $1,000</td>
+                </tr>
+              </table>
+
+              <h3>Game dynamics:</h3>
+              <img class="game_dynamics" src="chartgame.php?game_id=6825" width="400" height="200" alt="Game dynamics graph" />
+
+              <h3><a href="https://www.j-archive.com/help.php#coryatscore">Coryat scores</a>:</h3>
+              <table>
+                <tr>
+                  <td class="score_player_nickname">Joe</td>
+                  <td class="score_player_nickname">Sarah</td>
+                  <td class="score_player_nickname">Herman</td>
+                </tr>
+                <tr>
+                  <td class="score_positive">$10,000</td>
+                  <td class="score_positive">$13,800</td>
+                  <td class="score_positive">$7,600</td>
+                </tr>
+                <tr>
+                  <td class="score_remarks">15 R<br />(including 1 DD),<br />3 W<br />(including 1 DD)</td>
+                  <td class="score_remarks">17 R,<br />1 W</td>
+                  <td class="score_remarks">14 R<br />(including 1 DD),<br />4 W</td>
+                </tr>
+              </table>
+
+              <h3><a href="https://www.j-archive.com/help.php#combinedcoryat">Combined Coryat</a>: $31,400</h3>
+              <h4><a href="showgameresponses.php?game_id=6825" rel="external">[game responses]</a> <a href="showscores.php?game_id=6825" rel="external">[game scores]</a> <a href="suggestcorrection.php?game_id=6825" rel="nofollow">[suggest correction]</a></h4>
+            </div>
+
+
+            <script type="text/javascript">
+            <!--
+            function toggle(element, stuck, string) {
+              if (document.getElementById(stuck).style.fontWeight != "bold")
+                document.getElementById(element).innerHTML = string;
+            }
+
+            function togglestick(stuck) {
+              document.getElementById(stuck).style.fontWeight != "bold" ? document.getElementById(stuck).style.fontWeight = "bold" : document.getElementById(stuck).style.fontWeight = "normal";
+            }
+            -->
+            </script>
+</div>
+
+<div id="disclaimer">The J! Archive is created by fans, for fans.  The <i><a href="https://www.jeopardy.com">Jeopardy!</a></i> game show and all elements thereof, including but not limited to copyright and trademark thereto, are the property of Jeopardy Productions, Inc. and are protected under law.  This website is not affiliated with, sponsored by, or operated by Jeopardy Productions, Inc.  Join the discussion at <a href="https://jboard.tv">JBoard.tv</a>.</div>
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script src="https://www.j-archive.com/scripts.js" type="text/javascript"></script>
+</body>
+</html

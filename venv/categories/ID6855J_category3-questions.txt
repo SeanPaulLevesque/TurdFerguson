@@ -1,0 +1,6 @@
+WEAPON TYPES
+Tomahawk, <br />hatchet
+Cutlass, <br />falchion
+Compound, <br />recurve
+Bolt action; AR, also called modern sporting
+Cudgel, <br />shillelagh

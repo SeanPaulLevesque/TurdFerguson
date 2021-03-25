@@ -1,0 +1,6 @@
+MILITARY RANK LANGUAGE
+captain
+private
+major
+general
+corporal

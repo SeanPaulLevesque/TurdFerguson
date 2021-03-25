@@ -1,0 +1,6 @@
+NEWSPAPERS
+&lt;i&gt;The L.A. Times&lt;/i&gt;
+&lt;i&gt;USA Today&lt;/i&gt;
+the &lt;i&gt;Mirror&lt;/i&gt;
+&lt;i&gt;The Plain Dealer&lt;/i&gt;
+the &lt;i&gt;American-Statesman&lt;/i&gt;

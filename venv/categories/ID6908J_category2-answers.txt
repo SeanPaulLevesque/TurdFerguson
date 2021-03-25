@@ -1,0 +1,6 @@
+WEAPONS
+bow
+a cigar
+a boomerang
+a trident
+a tang

@@ -1,0 +1,6 @@
+TEXTILES
+cotton
+spandex
+linen
+Spain
+silk

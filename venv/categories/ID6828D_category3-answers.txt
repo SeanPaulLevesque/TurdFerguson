@@ -1,0 +1,6 @@
+GASES
+helium
+ether
+Freon
+methane
+radon
