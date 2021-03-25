@@ -10,6 +10,7 @@ for file in os.listdir("./episodes"):
             game = jsonpickle.decode(data)
 
             with open("./categories/" + file.split('.')[0] + '_finalj.txt', 'w+') as f:
+                f.write(game.f.category + '\n')
                 f.write(game.f.question + '\n')
                 f.write(game.f.answer + '\n')
 
