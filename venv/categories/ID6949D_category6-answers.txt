@@ -1,6 +1,6 @@
-"S" WORDS
-a scepter
-sharkskin
-&lt;i&gt;Signore&lt;/i&gt;
-sinew
-a spinet
+NAME CHANGES
+Bea Arthur
+Lauren
+Jimmy the Greek
+Gene Barry
+Lady Emma Hamilton

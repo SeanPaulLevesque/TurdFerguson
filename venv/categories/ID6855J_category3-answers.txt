@@ -1,6 +1,6 @@
-WEAPON TYPES
-an ax
-a sword
-a bow
-rifle
-a club
+STARTS WITH "F"
+fever
+forty-one
+a foyer
+falconry
+your fingernails

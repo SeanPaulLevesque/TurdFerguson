@@ -33,7 +33,7 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_J_") + 15
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
+
         if (question_num == attr[8]):
 
             #answers are buried between these messes
@@ -57,7 +57,6 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_J_") + 15
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
         if (question_num == attr[8]):
             start_index = game_html.find("correct_response&quot;&gt;") + len("correct_response&quot;&gt;")
             end_index = game_html.find("&lt;/em&gt;&lt;br", start_index)
@@ -79,7 +78,6 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_J_") + 15
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
         if (question_num == attr[8]):
             start_index = game_html.find("correct_response&quot;&gt;") + len("correct_response&quot;&gt;")
             end_index = game_html.find("&lt;/em&gt;&lt;br", start_index)
@@ -100,7 +98,6 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_J_") + 15
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
         if (question_num == attr[8]):
             start_index = game_html.find("correct_response&quot;&gt;") + len("correct_response&quot;&gt;")
             end_index = game_html.find("&lt;/em&gt;&lt;br", start_index)
@@ -121,7 +118,6 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_J_") + 15
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
         if (question_num == attr[8]):
             start_index = game_html.find("correct_response&quot;&gt;") + len("correct_response&quot;&gt;")
             end_index = game_html.find("&lt;/em&gt;&lt;br", start_index)
@@ -151,7 +147,6 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_DJ_") + 16
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
         if (question_num == attr[8]):
             start_index = game_html.find("correct_response&quot;&gt;") + len("correct_response&quot;&gt;")
             end_index = game_html.find("&lt;/em&gt;&lt;br", start_index)
@@ -172,7 +167,6 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_DJ_") + 16
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
         if (question_num == attr[8]):
             start_index = game_html.find("correct_response&quot;&gt;") + len("correct_response&quot;&gt;")
             end_index = game_html.find("&lt;/em&gt;&lt;br", start_index)
@@ -193,7 +187,6 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_DJ_") + 16
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
         if (question_num == attr[8]):
             start_index = game_html.find("correct_response&quot;&gt;") + len("correct_response&quot;&gt;")
             end_index = game_html.find("&lt;/em&gt;&lt;br", start_index)
@@ -214,7 +207,6 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_DJ_") + 16
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
         if (question_num == attr[8]):
             start_index = game_html.find("correct_response&quot;&gt;") + len("correct_response&quot;&gt;")
             end_index = game_html.find("&lt;/em&gt;&lt;br", start_index)
@@ -235,7 +227,6 @@ for id in range(6821,6980,1):
         question_index_start = game_html.find("toggle('clue_DJ_") + 16
         question_index_end = question_index_start + 1
         question_num = game_html[question_index_start:question_index_end]
-        game_html = game_html[question_index_end:]
         if (question_num == attr[8]):
             start_index = game_html.find("correct_response&quot;&gt;") + len("correct_response&quot;&gt;")
             end_index = game_html.find("&lt;/em&gt;&lt;br", start_index)

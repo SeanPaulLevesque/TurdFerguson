@@ -1,6 +1,6 @@
-COMPOSERS
-the &lt;i&gt;Ninth Symphony&lt;/i&gt;
-Stalin
-&lt;i&gt;West Side Story&lt;/i&gt;
-Franz Joseph Haydn
-Clara Wieck (Schumann)
+WORLD CAPITALS
+Vienna
+Ottawa (or Oslo or Ouagadougou)
+La Paz (or Sucre)
+Bangkok (Thailand)
+countries that begin with the letter Z
