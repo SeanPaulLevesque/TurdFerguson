@@ -1,6 +1,6 @@
-STARTS WITH "F"
-fever
-forty-one
-a foyer
-falconry
-your fingernails
+OCCUPATIONS
+stenographer
+dispatchers
+cinematographer
+a notary
+an actuary

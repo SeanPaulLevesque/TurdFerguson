@@ -4,8 +4,8 @@ import os
 
 for file in os.listdir("./episodes"):
     if file.startswith("ID"):
-        # with open("./episodes/" + file) as json_file:
-        with open("./episodes/" + "ID6952.txt") as json_file:
+        with open("./episodes/" + file) as json_file:
+        #with open("./episodes/" + "ID6952.txt") as json_file:
 
             print(file)
             data = json.load(json_file)
