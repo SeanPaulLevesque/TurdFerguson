@@ -1,6 +1,0 @@
-MOVIE TITLE PAIRS
-&lt;i&gt;Thelma &amp; Louise&lt;/i&gt;
-&lt;i&gt;Monty Python and the Holy Grail&lt;/i&gt;
-&lt;i&gt;Lilo &amp; Stitch&lt;/i&gt;
-&lt;i&gt;Stand and Deliver&lt;/i&gt;
-&lt;i&gt;Gods and Monsters&lt;/i&gt;

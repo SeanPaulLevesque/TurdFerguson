@@ -1,6 +1,0 @@
-PORTS
-Athens
-China
-Los Angeles
-Dubai
-Rotterdam

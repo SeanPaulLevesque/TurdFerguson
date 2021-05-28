@@ -1,6 +1,0 @@
-COMPUTER LANGUAGES
-Developed by Bjarne Stroustrup, this letter "++" is one of the first computer languages that college students learn
-Seen <a href="http://www.j-archive.com/media/2020-12-09_J_27.jpg" target="_blank">here</a> is the logo for this language that’s used on billions of devices everywhere
-In the acronym for this computer language created at Dartmouth in the 1960s, the first letter stands for "Beginner's"
-Created by Tim Berners-Lee, the language known by these 4 letters is used to create lots of web pages
-Sharing a name with a type of large snake, this computer language is used in NASA's integrated planning system

@@ -5,7 +5,7 @@ import jsonpickle
 
 
 #iterate through some episodes
-for id in range(6821,6980,1):
+for id in range(6721,6821,1):
     # grab webpage html
     url = "https://www.j-archive.com/showgame.php?game_id=" + str(id)
     page = urlopen(url)

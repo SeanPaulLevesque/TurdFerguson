@@ -1,0 +1,6 @@
+ANIMALS
+a crab
+a giraffe
+an emu
+a goat
+a baboon

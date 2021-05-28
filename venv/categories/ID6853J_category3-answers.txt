@@ -1,6 +1,0 @@
-PLATFORMS
-a train
-flatform
-dais
-plank
-scaffold

@@ -1,6 +1,0 @@
-LABORATORIES
-Cornell
-Fermi
-JPL (the Jet Propulsion Laboratory)
-CERN
-the Skunk Works

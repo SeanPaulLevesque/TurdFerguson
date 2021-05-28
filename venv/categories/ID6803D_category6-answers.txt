@@ -1,0 +1,6 @@
+NUMBER, PLEASE
+60
+500
+10
+a $20 bill
+30

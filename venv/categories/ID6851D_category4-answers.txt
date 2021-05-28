@@ -1,6 +1,0 @@
-MOVIE SUM-UP
-&lt;i&gt;Die Hard&lt;/i&gt;
-&lt;i&gt;Argo&lt;/i&gt;
-&lt;i&gt;My Dinner with Andre&lt;/i&gt;
-&lt;i&gt;The Wild Bunch&lt;/i&gt;
-&lt;i&gt;The Seventh Seal&lt;/i&gt;

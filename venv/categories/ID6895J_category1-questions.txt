@@ -1,6 +1,0 @@
-STATES BY COUNTY
-Kern, <br />Imperial, <br />Lassen
-Winnebago, <br />Champaign, <br />Fayette
-Autauga, <br />Coosa,<br />Talladega
-Skagit, <br />Pacific, <br />Snohomish
-Mesa, <br />Cheyenne, <br />Pueblo

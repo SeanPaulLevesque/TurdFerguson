@@ -1,0 +1,6 @@
+COLORS
+coral
+purple
+gray
+red
+black

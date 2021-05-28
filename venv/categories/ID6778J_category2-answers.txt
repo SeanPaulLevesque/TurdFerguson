@@ -1,0 +1,6 @@
+FOOD
+chicken
+ham
+truffles
+chestnuts
+cheese

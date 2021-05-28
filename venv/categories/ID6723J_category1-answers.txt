@@ -1,0 +1,6 @@
+ANIMALS
+a skunk
+a lion
+fish
+the gnu
+a rodent

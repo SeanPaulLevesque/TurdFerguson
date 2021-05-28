@@ -1,6 +1,0 @@
-BOOK 'EM
-&lt;i&gt;Seabiscuit&lt;/i&gt;
-Lenny Kravitz
-&lt;i&gt;Discworld&lt;/i&gt;
-(Anne) Tyler
-&lt;i&gt;The Naked and the Dead&lt;/i&gt;

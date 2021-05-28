@@ -1,0 +1,6 @@
+BUGS
+ants
+yellowjackets
+stinkbugs
+fireflies
+mayflies

@@ -1,6 +1,0 @@
-FROM S TO T
-a shortcut
-a sealant
-a savant
-a spreadsheet
-a surcoat

@@ -1,0 +1,6 @@
+DIALECTS
+Fu-chou,<br />Amoy-Swatow,<br />Mandarin
+Castilian, <br />Andalusian,<br />Aragonese
+Norman, <br />Angevin, <br />Champenois
+Cretan,<br />Tsakonian,<br />Peloponnesian
+Thuringian,<br />Swabian,<br />Swiss

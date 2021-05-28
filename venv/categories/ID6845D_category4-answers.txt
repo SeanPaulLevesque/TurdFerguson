@@ -1,6 +1,0 @@
-FROM "A" TO "Y"
-accuracy
-an adversary
-angioplasty
-accompany
-auditory

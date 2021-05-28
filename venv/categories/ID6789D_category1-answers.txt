@@ -1,0 +1,6 @@
+METALS
+lead
+tungsten
+aluminum
+chromium
+titanium

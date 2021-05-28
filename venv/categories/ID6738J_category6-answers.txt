@@ -1,0 +1,6 @@
+ROOMS
+recreation
+a powder room
+a throne room
+a ballroom
+the green room

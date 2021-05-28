@@ -1,0 +1,6 @@
+COMMON BONDS
+T, <br />polo, <br />flannel
+Punk, <br />pompadour, <br />pixie
+Gin, <br />Michigan rummy, <br />hearts
+Potter's, <br />spinning, <br />steering
+Krone, <br />colon, <br />quetzal

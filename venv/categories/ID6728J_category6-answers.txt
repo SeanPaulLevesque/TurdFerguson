@@ -1,0 +1,6 @@
+DIALECTS
+Chinese
+Spanish
+French
+Greek
+German

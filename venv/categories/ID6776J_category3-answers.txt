@@ -1,0 +1,6 @@
+FURNITURE
+a wardrobe
+a chair
+a mirror
+a secretary
+Shaker (Shakers)

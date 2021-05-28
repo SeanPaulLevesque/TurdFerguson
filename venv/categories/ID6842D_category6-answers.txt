@@ -1,6 +1,0 @@
-UNIVERSE
-radio
-a dwarf star
-Virgo
-dark matter
-a sphere

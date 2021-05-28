@@ -1,0 +1,6 @@
+ANIMALS
+a cockatoo
+wombat
+a panda
+raccoon
+a tick

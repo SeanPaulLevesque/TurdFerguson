@@ -1,0 +1,6 @@
+GEOMETRY
+a straight line
+pi
+the hypotenuse
+180 degrees
+a heptagon

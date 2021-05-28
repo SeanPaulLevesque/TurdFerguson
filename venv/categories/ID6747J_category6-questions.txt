@@ -1,0 +1,6 @@
+COMMON BONDS
+Benny, Bunker,<br />Breed's
+Rubber, green,<br />postage
+Umbrella,<br />circus, pup
+Building,<br />alphabet,<br />writer's
+Bachelor,<br />liberal, house

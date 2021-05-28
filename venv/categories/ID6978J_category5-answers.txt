@@ -1,6 +1,0 @@
-WEATHER
-mirages
-hurricane
-a rainbow
-265° F
-windchill

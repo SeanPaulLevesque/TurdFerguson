@@ -1,6 +1,0 @@
-COLORS
-silver
-brown
-black
-the pink
-white

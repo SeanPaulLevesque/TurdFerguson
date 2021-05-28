@@ -1,6 +1,0 @@
-WEAPON TYPES
-an ax
-a sword
-a bow
-rifle
-a club

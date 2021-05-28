@@ -1,6 +1,0 @@
-THEATRE
-&lt;i&gt;Waiting for Godot&lt;/i&gt;
-a bookstore
-&lt;i&gt;Miss Saigon&lt;/i&gt;
-the White House
-&lt;i&gt;Caesar and Cleopatra&lt;/i&gt;

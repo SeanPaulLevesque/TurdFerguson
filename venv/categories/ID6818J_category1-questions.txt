@@ -1,0 +1,6 @@
+STATE CAPITALS
+1 of 5 state capitals to begin with the letter "A"
+1 of 4 state capitals to begin with the letter "B"
+1 of 3 state capitals to begin with the letter "L"
+1 of 2 state capitals to begin with the letter "O"
+The only state capital to begin with the letter "N"

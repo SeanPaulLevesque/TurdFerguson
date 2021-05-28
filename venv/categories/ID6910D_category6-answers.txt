@@ -1,6 +1,0 @@
-MATH
-addition, subtraction, multiplication &amp; division
-4
-100
-3
-15

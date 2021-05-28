@@ -1,0 +1,6 @@
+PLANTS
+cork
+squash
+kelp
+clover
+hops

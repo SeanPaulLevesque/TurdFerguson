@@ -1,0 +1,6 @@
+FOOD
+a potato
+an eggplant
+grits
+truffles
+borscht

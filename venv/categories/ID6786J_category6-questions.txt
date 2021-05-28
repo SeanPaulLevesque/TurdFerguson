@@ -1,0 +1,6 @@
+COMMON BONDS
+Huey P. Long,<br />George Washington,<br />Golden Gate
+Albert,<br />Victoria,<br />Superior
+Macmillan,<br />Knopf,<br />McGraw-Hill
+Locks,<br />typewriters,<br />pianos
+Mansard,<br />gambrel,<br />gabled

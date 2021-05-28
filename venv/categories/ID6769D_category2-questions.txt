@@ -1,0 +1,6 @@
+COMPUTERS
+Device you use to click &amp; drag
+A monitor's resolution is measured in the number of these on the screen; a common one is 640 X 480
+To turn a computer into a multimedia machine; one of these players is added
+It's considered fragmented when the spaces it allocates to a file are not contiguous, but scattered
+The main or baseboard of most computers, it has expansion slots to extend the computer's capabilities

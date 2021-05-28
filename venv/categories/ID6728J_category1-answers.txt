@@ -1,0 +1,6 @@
+MAMMALS
+a giraffe
+a platypus
+a zebra
+canine
+an orangutan

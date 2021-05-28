@@ -1,6 +1,0 @@
-CALL A "CAB"
-a cabinet
-a cabana
-cabbage
-cabernet
-a &lt;i&gt;caballero&lt;/i&gt;

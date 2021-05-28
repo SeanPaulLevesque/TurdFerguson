@@ -1,6 +1,0 @@
-COMPUTER LANGUAGES
-C
-Java
-BASIC
-HTML
-Python

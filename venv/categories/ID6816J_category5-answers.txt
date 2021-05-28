@@ -1,0 +1,6 @@
+MAGAZINES
+&lt;i&gt;Newsweek&lt;/i&gt;
+&lt;i&gt;New York Times&lt;/i&gt;
+&lt;i&gt;Parents&lt;/i&gt; magazine
+&lt;i&gt;MAD&lt;/i&gt; magazine
+&lt;i&gt;Penthouse&lt;/i&gt;

@@ -1,0 +1,6 @@
+GEOMETRY
+One simple axiom says through any two points, this can be drawn
+To find the area of a circle, you multiply this by the radius squared
+It's the longest side of a right triangle
+Two angles are said to be supplementary when their sum equals this
+A pentagon is a polygon with 5 sides; this is a polygon with 7 sides

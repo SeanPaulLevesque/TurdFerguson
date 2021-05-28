@@ -1,6 +1,0 @@
-ASTRONAUTS
-Apollo 11
-Gemini
-&lt;i&gt;Endeavour&lt;/i&gt;
-Challenger Deep
-Glenn

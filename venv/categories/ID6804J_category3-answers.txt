@@ -1,0 +1,6 @@
+COLORS
+melon
+pink
+bottle green
+charcoal
+blue

@@ -1,6 +1,0 @@
-FROM B TO C
-the bloc
-barometric
-Bosc
-a bishopric
-&lt;i&gt;en banc&lt;/i&gt;
